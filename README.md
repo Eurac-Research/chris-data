@@ -16,7 +16,7 @@ The publications are stored as a JSON object where each key is the DOI of the pu
 | `volume` | string | ❌ | Journal volume number |
 | `issue` | string | ❌ | Journal issue number |
 | `pages` | string | ❌ | Page range (e.g., `"5434"` or `"123-145"`) |
-| `pre` | boolean | ✅ | Whether this is a preprint (`true`) or peer-reviewed (`false`) |
+| `pre` | boolean | ❌ | Whether this is a preprint (`true`) or peer-reviewed (`false`) |
 | `doi` | string | ✅ | The DOI identifier (without `https://doi.org/` prefix) |
 | `abstract` | string | ❌ | Publication abstract (supports formatting, see below) |
 | `authors` | string[] | ✅ | Array of author names (e.g., `["Förster F", "Emmert D"]`) |

@@ -1,4 +1,31 @@
 {
+    "10.1007/s00394-026-03992-y": {
+        "title": "Associations between dietary patterns and cardiovascular, kidney and metabolic risk markers in the Cooperative Health Research in South Tyrol study.",
+        "journal": "European journal of nutrition",
+        "year": "2026",
+        "abstract": "**Purpose**<br> Cardiovascular-kidney metabolic syndrome (CKM) represents an increasingly prevalent public health concern. Optimal strategies to prevent CKM-related outcomes are greatly needed. We assessed the association between various dietary patterns and CKM biomarkers in a general population study. <br>**Methods**<br> We used cross-sectional data from 8066 adult participants of the Cooperative Health Research in South Tyrol (CHRIS) study. Self-reported dietary intake was assessed through the semi-quantitative GA<sup>2</sup>LEN Food Frequency questionnaire. We derived six established dietary pattern indices, and population-specific dietary patterns through principal component analysis. CKM biomarkers included: systolic and diastolic blood pressure, glycated haemoglobin, visceral fat, HDL, LDL and total cholesterol, triglycerides, creatinine-based estimated glomerular filtration rate, and urinary albumin-to-creatinine ratio. We investigated associations between each dietary index and CKM risk marker using multivariable linear regression models. We further examined potential effect modification by sex, body mass index, physical activity and smoking habit. <br>**Results**<br> Higher adherence to healthy dietary patterns rich in fruits, vegetables, whole grains, and low in saturated fats was associated with more favorable CKM marker levels. E.g, when comparing the fourth to the first quartile the healthy plant-based dietary index was associated with lower total and LDL cholesterol (\u03b2\u00a0\u2248\u00a0-\u00a0\u20095.0\u00a0mg/dL, <i>p</i>\u00a0<\u00a0\u20090.001), lower blood pressure (\u03b2=\u00a0-\u00a01.24 mmHg, <i>p</i>\u2009=\u20090.001) and higher eGFR (\u03b2\u2009=\u20091.24\u00a0ml/min/1.73m<sup>2</sup>, <i>p</i>\u2009=\u20090.001). In contrast, the unhealthy plant based and a Western style diet were associated with higher SBP (\u03b2\u00a0\u2009=\u00a0\u20091.23-1.89\u00a0mmHg, <i>p</i>\u00a0<\u00a00.01), amongst others. For some markers, associations tended to be stronger in men, individuals with overweight or obesity, those with lower physical activity, and smokers (<i>P<sub>interaction</sub></i><\u00a00.05). <br>**Conclusions**<br> Adhering to a healthy plant rich diet low in saturated fats, added sugars and processed foods was associated with more favorable levels of CKM biomarkers, including blood lipids, blood pressure, glycated hemoglobin and eGFR.",
+        "authors": [
+            "Hantikainen E",
+            "Berger S",
+            "Barbieri G",
+            "Pramstaller PP",
+            "Garcia-Larsen V",
+            "G\u00f6gele M",
+            "Pattaro C",
+            "Lundin R",
+            "Domingues FS"
+        ],
+        "doi": "10.1007/s00394-026-03992-y",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "537",
+        "volume": "65",
+        "issue": "4",
+        "pages": "",
+        "pre": false,
+        "pdate": "2026-05-29"
+    },
     "10.64898/2025.12.01.25341334": {
         "title": "Molecular characterization of liver steatosis through circulating proteins, metabolites and lipids",
         "journal": "medRxiv",
@@ -27,6 +54,44 @@
         "pages": "",
         "pre": true,
         "pdate": "2025-12-01"
+    },
+    "10.1016/j.celrep.2023.113611": {
+        "title": "Genetic determinants of complement activation in the general population.",
+        "journal": "Cell reports",
+        "year": "2024",
+        "abstract": "Complement is a fundamental innate immune response component. Its alterations are associated with severe systemic diseases. To illuminate the complement's genetic underpinnings, we conduct genome-wide association studies of the functional activity of the classical (CP), lectin (LP), and alternative (AP) complement pathways in the Cooperative Health Research in South Tyrol study (n\u00a0= 4,990). We identify seven loci, encompassing 13 independent, pathway-specific variants located in or near complement genes (*CFHR4*, *C7*, *C2*, *MBL2*) and non-complement genes (*PDE3A*, *TNXB*, *ABO*), explaining up to 74% of complement pathways' genetic heritability and implicating long-range haplotypes associated with LP at *MBL2*. Two-sample Mendelian randomization analyses, supported by transcriptome- and proteome-wide colocalization, confirm known causal pathways, establish within-complement feedback loops, and implicate causality of ABO on LP and of CFHR2 and C7 on AP. LP causally influences collectin-11 and KAAG1 levels and the risk of mouth ulcers. These results build a comprehensive resource to investigate the role of complement in human health.",
+        "authors": [
+            "Noce D",
+            "Foco L",
+            "Orth-H\u00f6ller D",
+            "K\u00f6nig E",
+            "Barbieri G",
+            "Pietzner M",
+            "Ghasemi-Semeskandeh D",
+            "Coassin S",
+            "Fuchsberger C",
+            "G\u00f6gele M",
+            "Del Greco M F",
+            "De Grandi A",
+            "Summerer M",
+            "Wheeler E",
+            "Langenberg C",
+            "Lass-Fl\u00f6rl C",
+            "Pramstaller PP",
+            "Kronenberg F",
+            "W\u00fcrzner R",
+            "Pattaro C"
+        ],
+        "doi": "10.1016/j.celrep.2023.113611",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "346",
+        "volume": "43",
+        "issue": "1",
+        "pages": "113611",
+        "pre": false,
+        "pdate": "2024-01-02"
     },
     "10.1038/s41467-025-61330-y": {
         "title": "Genome-wide association meta-analysis of human olfactory identification discovers sex-specific and sex-differential genetic variants.",
@@ -68,6 +133,44 @@
         "pages": "5434",
         "pre": false,
         "pdate": "2025-07-02"
+    },
+    "10.1007/s00439-025-02761-x": {
+        "title": "Genomic and molecular evidence that the LncRNA DSP-AS1 modulates desmoplakin expression.",
+        "journal": "Human genetics",
+        "year": "2025",
+        "abstract": "Cardiac desmosomes are specialized cell junctions responsible for cardiomyocytes mechanical coupling. Mutation in desmosomal genes cause autosomal dominant and recessive familial arrhythmogenic cardiomyopathy. Motivated by evidence that Mendelian diseases share genetic architecture with common complex traits, we assessed whether common variants in any desmosomal gene were associated with cardiac conduction traits in the general population. We analysed data of N\u2009=\u20094342 Cooperative Health Research in South Tyrol (CHRIS) study participants. We tested associations between genotype imputed variants covering the five desmosomal genes Desmoplakin (*DSP*), junction plakoglobin *(JUP)*, plakophilin 2 *(PKP2)*, desmoglein 2 *(DSG2)*, and desmocollin 2 *(DSC2)*, and P-wave, PR, QRS, and QT electrocardiographic intervals, using linear mixed models. Functional annotation and interrogation of publicly available genome-wide association study resources implicated potential connection with antisense long non-coding RNAs (lncRNAs), DNA methylation sites, and complex traits. Causality was tested via two-sample Mendelian randomization (MR) analysis and validated with functional in vitro follow-up in human induced pluripotent stem cell derived cardiomyocytes (hiPSC-CMs). *DSP* variant rs2744389 was associated with QRS (*P*\u2009=\u20093.5\u2009\u00d7\u200910<sup>-6</sup>), with replication in the Microisolates in South Tyrol (MICROS) study (n\u2009=\u2009636; *P*\u2009=\u20090.010). Observing that rs2744389 was associated with *DSP-AS1* antisense lncRNA but not with *DSP* expression in multiple Genotype-Tissue Expression (GTEx) v8 tissues, we conducted two-sample Mendelian randomization analyses that identified causal effects of *DSP-AS1* on *DSP* expression (*P*\u2009=\u20096.33\u2009\u00d7\u200910<sup>-5</sup>); colocalization posterior probability\u2009=\u20090.91) and QRS (*P*\u2009=\u20090.015). In hiPSC-CMs, *DSP-AS1* expression downregulation through a specific GapmerR matching sequence led to significant *DSP* upregulation at both mRNA and protein levels. The evidence that *DSP-AS1* has a regulatory role on *DSP* opens the venue for further investigations on *DSP-AS1'*s therapeutic potential for conditions caused by reduced desmoplakin production.",
+        "authors": [
+            "Foco L",
+            "De Bortoli M",
+            "Del Greco M F",
+            "Frommelt LS",
+            "Volani C",
+            "Riekschnitz DA",
+            "Motta BM",
+            "Fuchsberger C",
+            "Delerue T",
+            "V\u00f6lker U",
+            "Huan T",
+            "G\u00f6gele M",
+            "Winkelmann J",
+            "D\u00f6rr M",
+            "Levy D",
+            "Waldenberger M",
+            "Teumer A",
+            "Pramstaller PP",
+            "Rossini A",
+            "Pattaro C"
+        ],
+        "doi": "10.1007/s00439-025-02761-x",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "454",
+        "volume": "144",
+        "issue": "8",
+        "pages": "843-860",
+        "pre": false,
+        "pdate": "2025-07-30"
     },
     "10.1101/2025.06.12.25329492": {
         "title": "Haplomics: A Snakemake pipeline for haplotype-based association analysis in multi-omics studies",
@@ -197,6 +300,98 @@
         "pages": "743-757",
         "pre": false,
         "pdate": "2017-04-05"
+    },
+    "10.1053/j.jrn.2024.03.003": {
+        "title": "Associations Between Dietary Patterns and Kidney Health Assessed in the Population-Based CHRIS Study Using Reduced Rank Regression.",
+        "journal": "Journal of renal nutrition",
+        "year": "2024",
+        "abstract": "**Objective**<br> While diet plays a key role in chronic kidney disease (CKD) management, the potential for diet to impact CKD prevention in the general population is less clear. Using a priori knowledge, we derived disease-related dietary patterns (DPs) through reduced rank regression (RRR) and investigated associations with kidney function, separately focusing on generally healthy individuals and those with self-reported kidney diseases, hypertension, or diabetes mellitus. <br>**Methods**<br> Eight thousand six hundred eighty-six participants from the population-based Cooperative Health Research in South Tyrol study were split into a group free of kidney disease, hypertension and diabetes (n\u00a0=\u00a06,133) and a group with any of the 3 conditions (n\u00a0=\u00a02,553). Diet was assessed through the self-administered Global Allergy and Asthma Network of Excellence food frequency questionnaire and DPs were derived through RRR selecting food frequency questionnaire-derived sodium, potassium, phosphorus, and protein intake as mediators. Outcomes were creatinine-based estimated glomerular filtration rate, urinary albumin-to-creatinine ratio, CKD and microalbuminuria. Multiple linear and logistic models were used to assess associations between RRR-based DPs and kidney outcomes separately in the 2 analytic groups. <br>**Results**<br> We identified 3 DPs, where high adherence reflected high levels of all nutrients (DP1), high potassium-phosphorus and low protein-sodium levels (DP2), and low potassium-sodium and high protein-phosphorus levels (DP3), respectively. We observed heterogeneous associations with kidney outcomes, varying by analytic group and sex. Kidney outcomes were much more strongly associated with DPs than with single nutrients. <br>**Conclusion**<br> RRR is a feasible approach to estimate disease-related DPs and explore the combined effects of nutrients on kidney health. Heterogeneous associations across kidney outcomes suggest possible specificity to kidney function or damage. In individuals reporting kidney disease, hypertension or diabetes, specific dietary habits were associated with better kidney health, indicating that disease-specific dietary interventions can be effective for disease control.",
+        "authors": [
+            "Barbieri G",
+            "Garcia-Larsen V",
+            "Lundin R",
+            "Fujii R",
+            "Melotti R",
+            "G\u00f6gele M",
+            "Christopher KB",
+            "Cazzoletti L",
+            "Pramstaller PP",
+            "Zanolin ME",
+            "Pattaro C",
+            "Hantikainen E"
+        ],
+        "doi": "10.1053/j.jrn.2024.03.003",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "398",
+        "volume": "34",
+        "issue": "5",
+        "pages": "427-437",
+        "pre": false,
+        "pdate": "2024-03-24"
+    },
+    "10.1186/s12882-026-04896-z": {
+        "title": "DASH diet, Reduced Rank Regression Dietary Patterns and relations with kidney function in the CHRIS general population study.",
+        "journal": "BMC nephrology",
+        "year": "2026",
+        "abstract": "**Background**<br> Chronic kidney disease (CKD) is a growing public health concern, closely linked to aging and chronic conditions such as diabetes, cardiovascular disease, and hypertension. Diet is a modifiable risk factor for kidney function, but evidence on how specific dietary patterns (DPs) relate to kidney health in healthy populations remains limited. To address this, we evaluated associations between DPs and kidney function, considering sex and menstrual status. DPs were derived using both an a priori approach (DASH) and a hybrid method (RRR), capturing established dietary recommendations as well as population-specific behaviours relevant to kidney health. <br>**Methods**<br> We analysed cross-sectional data from 6133 healthy adult participants of the Cooperative Health Research In South Tyrol (CHRIS) study. Participants self-reporting previous diagnoses of any kidney disease, hypertension, or diabetes were excluded. Using self-reported food frequency questionnaire data, we derived the DASH-score and two RRR-based sex-specific DP-scores based on nine cardio-renal-metabolic parameters. We applied sex-stratified linear and non-linear models to examine associations with creatinine-based eGFR, including interaction and stratified analyses by menstrual status in females. <br>**Results**<br> In males, a DP reflecting high intake of cereals, whole grains, sugar, fruits, and legumes, and low intake of beer, red and processed meat was associated with higher eGFR levels (\u03b2\u2009=\u20090.75, *p*\u2009=\u20090.0001). Similarly, higher adherence to the DASH diet was also positively associated with eGFR (\u03b2\u2009=\u20090.64, *p*\u2009=\u20090.0029). In females, the associations varied by menstrual status. Among those with ceased menstruation, a DP reflecting low intake of meat, spirits, and refined grains, and high intake of whole grains and dairy products was associated with higher eGFR (\u03b2\u2009=\u20091.11, *p*\u2009=\u20090.0049). In females still experiencing regular menstruation, a DP reflecting high intake of beef, nuts, beer, and legumes, and low intake of refined grains was associated with lower eGFR (\u03b2\u2009=\u2009\u22120.43, *p*\u2009=\u20090.0326). No association was observed with the DASH score in females.<br>**Conclusions**<br>  The DASH-style diet is associated with better kidney function in males, but not in females. Identifying sex-specific kidney function-oriented DPs using RRR provides new insights into the diet-eGFR relationship, suggesting potential effect modification by menstrual status.",
+        "authors": [
+            "Barbieri G",
+            "Garcia-Larsen V",
+            "Lundin R",
+            "Fujii R",
+            "Ferraro PM",
+            "Gambaro G",
+            "Melotti R",
+            "G\u00f6gele M",
+            "Cazzoletti L",
+            "Pramstaller PP",
+            "Zanolin ME",
+            "Pattaro C",
+            "Hantikainen E"
+        ],
+        "doi": "10.1186/s12882-026-04896-z",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "459",
+        "volume": "27",
+        "issue": "1",
+        "pages": "",
+        "pre": false,
+        "pdate": "2026-04-21"
+    },
+    "10.1007/s40620-024-02157-6": {
+        "title": "Development and evaluation of a kidney health questionnaire and estimates of chronic kidney disease prevalence in the Cooperative Health Research in South Tyrol (CHRIS) study.",
+        "journal": "Journal of nephrology",
+        "year": "2025",
+        "abstract": "**Background**<br> Kidney diseases are a public health burden but are poorly investigated in the general population. In light of inadequate survey tools, we developed a novel questionnaire for use in population-based studies, to retrospectively assess kidney diseases. <br>**Methods**<br> The questionnaire covered general kidney diseases, reduced kidney function, and renal surgeries. It was administered between 2011 and 2018 to 11,684 participants (median age\u2009=\u200945 years) of the Cooperative Health Research in South Tyrol (CHRIS) study. Fasting estimated glomerular filtration rate (eGFR) and urinary albumin-to-creatinine ratio (UACR) were measured. By factor analysis we contextualized the questionnaire content with respect to the\u00a0biochemical measurements. We estimated overall and sex-stratified prevalence of kidney diseases, including possible CKD, calibrating them to the general target population via relative sampling weights. <br>**Results**<br> Population-representative prevalence of glomerulonephritis, pyelonephritis, and congenital kidney diseases was 1.0%, 3.0%, and 0.2%, respectively, with corresponding odds ratios for females versus males of 1.4 (95% confidence interval: 1.0, 2.0), 8.7 (6.2, 12.3), and 0.7 (0.3, 1.6), respectively. Prevalence of kidney dysfunction (eGFR\u2009<\u200960\u00a0mL/min/1.73\u00a0m(2) or UACR\u2009>\u200930\u00a0mg/g) was 8.59%, while prevalence of self-reported CKD was 0.69%, indicating 95.3% of\u00a0lack of disease awareness, with a similar figure in people with diabetes or hypertension. Overall, 15.76% of the population was affected by a kidney disease of any kind. <br>**Conclusion**<br> In the Val Venosta/Vinschgau alpine district, CKD prevalence aligned with Western European estimates. Kidney health questionnaire implementation in population studies is feasible and valuable to assess CKD awareness, which we found to be dramatically low.",
+        "authors": [
+            "Barbieri G",
+            "Cazzoletti L",
+            "Melotti R",
+            "Hantikainen E",
+            "Lundin R",
+            "Barin L",
+            "G\u00f6gele M",
+            "Riegler P",
+            "Ferraro PM",
+            "Pramstaller PP",
+            "Gambaro G",
+            "Zanolin ME",
+            "Pattaro C"
+        ],
+        "doi": "10.1007/s40620-024-02157-6",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "442",
+        "volume": "38",
+        "issue": "2",
+        "pages": "521-530",
+        "pre": false,
+        "pdate": "2024-11-27"
     },
     "10.1016/j.jad.2025.03.055": {
         "title": "The influence of affective temperaments on sleep quality in a general population sample. Data report from the CHRIS study.",
@@ -871,36 +1066,27 @@
         "pre": false,
         "pdate": "2025-07-22"
     },
-    "10.1101/2024.07.18.24310620": {
-        "title": "DASH diet, Reduced Rank Regression Dietary Patterns and relations with kidney function in the CHRIS general population study",
-        "journal": "medRxiv",
+    "10.1093/hmg/ddae062": {
+        "title": "Impact of the inaccessible genome on genotype imputation and genome-wide association studies.",
+        "journal": "Human molecular genetics",
         "year": "2024",
-        "abstract": "**Objective**<br> We assessed dietary patterns (DPs) using the pre-defined Dietary Approaches to Stop Hypertension (DASH) score and reduced rank regression (RRR) to evaluate their association with estimated glomerular filtration rate (eGFR) in a general population sample.<br>**Methods**<br> We analysed cross-sectional data from 6,133 healthy adult participants of the Cooperative Health Research In South Tyrol (CHRIS) study. Using self-reported food frequency questionnaire data, we derived the DASH-score and two RRR-based sex-specific DP-scores based on nine cardio-renal-metabolic parameters. We fitted sex-stratified linear and non-linear models to assess associations with creatininebased eGFR.<br>**Results**<br> Males with higher intake of cereals, whole grains, sugar, fruits, and legumes, and lower intake of beer, and red and processed meat (MDP<sub>1</sub>), exhibited higher eGFR levels. Coherently, high adherence to the DASH-style diet was associated with higher eGFR. In females, the associations varied by menstrual status. Among those with ceased menstruation, a low intake of meat, spirits, refined grains, beer, and fish, and a high intake of whole grains and dairy products was associated with higher eGFR. In females still experiencing regular menstruation, a high intake of beef, nuts, beer, legumes, fish, and coffee, and low intake of refined grains, (FDP<sub>2</sub>) was associated with lower eGFR. No association was observed with the DASH score in females.<br>**Conclusion**<br> Our findings confirm the DASH-style diet is associated with better kidney function in males, but not in females. By identifying sex-specific kidney function-oriented DPs, the RRR approach provides new insights into the diet-eGFR relation, highlighting in addition potential effect modification by menstrual status.",
+        "abstract": "Genotype imputation is widely used in genome-wide association studies (GWAS). However, both the genotyping chips and imputation reference panels are dependent on next-generation sequencing (NGS). Due to the nature of NGS, some regions of the genome are inaccessible to sequencing. To date, there has been no complete evaluation of these regions and their impact on the identification of associations in GWAS remains unclear. In this study, we systematically assess the extent to which variants in inaccessible regions are underrepresented on genotyping chips and imputation reference panels, in GWAS results and in variant databases. We also determine the proportion of genes located in inaccessible regions and compare the results across variant masks defined by the 1000 Genomes Project and the TOPMed program. Overall, fewer variants were observed in inaccessible regions in all categories analyzed. Depending on the mask used and normalized for region size, only 4%-17% of the genotyped variants are located in inaccessible regions and 52 to 581 genes were almost completely inaccessible. From the Cooperative Health Research in South Tyrol (CHRIS) study, we present a case study of an association located in an inaccessible region that is driven by genotyped variants and cannot be reproduced by imputation in GRCh37. We conclude that genotyping, NGS, genotype imputation and downstream analyses such as GWAS and fine mapping are systematically biased in inaccessible regions, due to missed variants and spurious associations. To help researchers assess gene and variant accessibility, we provide an online application ([https://gab.gm.eurac.edu](https://gab.gm.eurac.edu)).",
         "authors": [
-            "Barbieri G",
-            "Garcia-Larsen V",
-            "Lundin R",
-            "Fujii R",
-            "Ferraro PM",
-            "Gambaro G",
-            "Melotti R",
-            "G\u00f6gele M",
-            "Cazzoletti L",
-            "Pramstaller PP",
-            "Zanolin ME",
-            "Pattaro C",
-            "Hantikainen E"
+            "K\u00f6nig E",
+            "Mitchell JS",
+            "Filosi M",
+            "Fuchsberger C"
         ],
-        "doi": "10.1101/2024.07.18.24310620",
+        "doi": "10.1093/hmg/ddae062",
         "source_study": [
             "CHRIS baseline"
         ],
-        "ar": "459",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "pre": true,
-        "pdate": "2024-07-18"
+        "ar": "403",
+        "volume": "33",
+        "issue": "14",
+        "pages": "1207-1214",
+        "pre": false,
+        "pdate": "2024-04-21"
     },
     "10.1186/s12863-025-01360-z": {
         "title": "Genome-wide association study meta-analysis uncovers novel genetic variants associated with olfactory dysfunction.",
@@ -937,44 +1123,6 @@
         "pages": "64",
         "pre": false,
         "pdate": "2025-09-18"
-    },
-    "10.1007/s00439-025-02761-x": {
-        "title": "Genomic and molecular evidence that the LncRNA DSP-AS1 modulates desmoplakin expression.",
-        "journal": "Human genetics",
-        "year": "2025",
-        "abstract": "Cardiac desmosomes are specialized cell junctions responsible for cardiomyocytes mechanical coupling. Mutation in desmosomal genes cause autosomal dominant and recessive familial arrhythmogenic cardiomyopathy. Motivated by evidence that Mendelian diseases share genetic architecture with common complex traits, we assessed whether common variants in any desmosomal gene were associated with cardiac conduction traits in the general population. We analysed data of N\u2009=\u20094342 Cooperative Health Research in South Tyrol (CHRIS) study participants. We tested associations between genotype imputed variants covering the five desmosomal genes Desmoplakin (*DSP*), junction plakoglobin *(JUP)*, plakophilin 2 *(PKP2)*, desmoglein 2 *(DSG2)*, and desmocollin 2 *(DSC2)*, and P-wave, PR, QRS, and QT electrocardiographic intervals, using linear mixed models. Functional annotation and interrogation of publicly available genome-wide association study resources implicated potential connection with antisense long non-coding RNAs (lncRNAs), DNA methylation sites, and complex traits. Causality was tested via two-sample Mendelian randomization (MR) analysis and validated with functional in vitro follow-up in human induced pluripotent stem cell derived cardiomyocytes (hiPSC-CMs). *DSP* variant rs2744389 was associated with QRS (*P*\u2009=\u20093.5\u2009\u00d7\u200910<sup>-6</sup>), with replication in the Microisolates in South Tyrol (MICROS) study (n\u2009=\u2009636; *P*\u2009=\u20090.010). Observing that rs2744389 was associated with *DSP-AS1* antisense lncRNA but not with *DSP* expression in multiple Genotype-Tissue Expression (GTEx) v8 tissues, we conducted two-sample Mendelian randomization analyses that identified causal effects of *DSP-AS1* on *DSP* expression (*P*\u2009=\u20096.33\u2009\u00d7\u200910<sup>-5</sup>); colocalization posterior probability\u2009=\u20090.91) and QRS (*P*\u2009=\u20090.015). In hiPSC-CMs, *DSP-AS1* expression downregulation through a specific GapmerR matching sequence led to significant *DSP* upregulation at both mRNA and protein levels. The evidence that *DSP-AS1* has a regulatory role on *DSP* opens the venue for further investigations on *DSP-AS1'*s therapeutic potential for conditions caused by reduced desmoplakin production.",
-        "authors": [
-            "Foco L",
-            "De Bortoli M",
-            "Del Greco M F",
-            "Frommelt LS",
-            "Volani C",
-            "Riekschnitz DA",
-            "Motta BM",
-            "Fuchsberger C",
-            "Delerue T",
-            "V\u00f6lker U",
-            "Huan T",
-            "G\u00f6gele M",
-            "Winkelmann J",
-            "D\u00f6rr M",
-            "Levy D",
-            "Waldenberger M",
-            "Teumer A",
-            "Pramstaller PP",
-            "Rossini A",
-            "Pattaro C"
-        ],
-        "doi": "10.1007/s00439-025-02761-x",
-        "source_study": [
-            "CHRIS baseline"
-        ],
-        "ar": "454",
-        "volume": "144",
-        "issue": "8",
-        "pages": "843-860",
-        "pre": false,
-        "pdate": "2025-07-30"
     },
     "10.1038/s41467-024-44701-9": {
         "title": "Multi-trait analysis characterizes the genetics of thyroid function and identifies causal associations with clinical implications.",
@@ -1199,37 +1347,6 @@
         "pre": false,
         "pdate": "2025-06-09"
     },
-    "10.1007/s40620-024-02157-6": {
-        "title": "Development and evaluation of a kidney health questionnaire and estimates of chronic kidney disease prevalence in the Cooperative Health Research in South Tyrol (CHRIS) study.",
-        "journal": "Journal of nephrology",
-        "year": "2025",
-        "abstract": "**Background**<br> Kidney diseases are a public health burden but are poorly investigated in the general population. In light of inadequate survey tools, we developed a novel questionnaire for use in population-based studies, to retrospectively assess kidney diseases. <br>**Methods**<br> The questionnaire covered general kidney diseases, reduced kidney function, and renal surgeries. It was administered between 2011 and 2018 to 11,684 participants (median age\u2009=\u200945 years) of the Cooperative Health Research in South Tyrol (CHRIS) study. Fasting estimated glomerular filtration rate (eGFR) and urinary albumin-to-creatinine ratio (UACR) were measured. By factor analysis we contextualized the questionnaire content with respect to the\u00a0biochemical measurements. We estimated overall and sex-stratified prevalence of kidney diseases, including possible CKD, calibrating them to the general target population via relative sampling weights. <br>**Results**<br> Population-representative prevalence of glomerulonephritis, pyelonephritis, and congenital kidney diseases was 1.0%, 3.0%, and 0.2%, respectively, with corresponding odds ratios for females versus males of 1.4 (95% confidence interval: 1.0, 2.0), 8.7 (6.2, 12.3), and 0.7 (0.3, 1.6), respectively. Prevalence of kidney dysfunction (eGFR\u2009<\u200960\u00a0mL/min/1.73\u00a0m(2) or UACR\u2009>\u200930\u00a0mg/g) was 8.59%, while prevalence of self-reported CKD was 0.69%, indicating 95.3% of\u00a0lack of disease awareness, with a similar figure in people with diabetes or hypertension. Overall, 15.76% of the population was affected by a kidney disease of any kind. <br>**Conclusion**<br> In the Val Venosta/Vinschgau alpine district, CKD prevalence aligned with Western European estimates. Kidney health questionnaire implementation in population studies is feasible and valuable to assess CKD awareness, which we found to be dramatically low.",
-        "authors": [
-            "Barbieri G",
-            "Cazzoletti L",
-            "Melotti R",
-            "Hantikainen E",
-            "Lundin R",
-            "Barin L",
-            "G\u00f6gele M",
-            "Riegler P",
-            "Ferraro PM",
-            "Pramstaller PP",
-            "Gambaro G",
-            "Zanolin ME",
-            "Pattaro C"
-        ],
-        "doi": "10.1007/s40620-024-02157-6",
-        "source_study": [
-            "CHRIS baseline"
-        ],
-        "ar": "442",
-        "volume": "38",
-        "issue": "2",
-        "pages": "521-530",
-        "pre": false,
-        "pdate": "2024-11-27"
-    },
     "10.1038/s42003-024-07115-3": {
         "title": "Novel loci and biomedical consequences of iron homoeostasis variation.",
         "journal": "Communications biology",
@@ -1319,6 +1436,25 @@
         "pages": "1631",
         "pre": false,
         "pdate": "2024-12-07"
+    },
+    "10.1038/s41586-021-03767-x": {
+        "title": "Mapping the human genetic architecture of COVID-19.",
+        "journal": "Nature",
+        "year": "2021",
+        "abstract": "The genetic make-up of an individual contributes to the susceptibility and response to viral infection. Although environmental, clinical and social factors have a role in the chance of exposure to SARS-CoV-2 and the severity of COVID-19, host genetics may also be important. Identifying host-specific genetic factors may reveal biological mechanisms of therapeutic relevance and clarify causal relationships of modifiable environmental risk factors for SARS-CoV-2 infection and outcomes. We formed a global network of researchers to investigate the role of human genetics in SARS-CoV-2 infection and COVID-19 severity. Here we describe the results of three genome-wide association meta-analyses that consist of up to 49,562 patients with COVID-19 from 46 studies across 19 countries. We report 13 genome-wide significant loci that are associated with SARS-CoV-2 infection or severe manifestations of COVID-19. Several of these loci correspond to previously documented associations to lung or autoimmune and inflammatory diseases. They also represent potentially actionable mechanisms in response to infection. Mendelian randomization analyses support a causal role for smoking and body-mass index for severe COVID-19 although not for type II diabetes. The identification of novel host genetic factors associated with COVID-19 was made possible by the community of human genetics researchers coming together to prioritize the sharing of data, results, resources and analytical frameworks. This working model of international collaboration underscores what is possible for future genetic discoveries in emerging pandemics, or indeed for any complex human disease.",
+        "authors": [
+            "COVID-19 Host Genetics Initiative"
+        ],
+        "doi": "10.1038/s41586-021-03767-x",
+        "source_study": [
+            "CHRIS COVID-19"
+        ],
+        "ar": "409",
+        "volume": "600",
+        "issue": "7889",
+        "pages": "472-477",
+        "pre": false,
+        "pdate": "2021-07-09"
     },
     "10.1038/nrg3218": {
         "title": "From patients to partners: participant-centric initiatives in biomedical research.",
@@ -2875,25 +3011,6 @@
         "pre": false,
         "pdate": "2021-05-14"
     },
-    "10.1038/s41586-021-03767-x": {
-        "title": "Mapping the human genetic architecture of COVID-19.",
-        "journal": "Nature",
-        "year": "2021",
-        "abstract": "The genetic make-up of an individual contributes to the susceptibility and response to viral infection. Although environmental, clinical and social factors have a role in the chance of exposure to SARS-CoV-2 and the severity of COVID-19, host genetics may also be important. Identifying host-specific genetic factors may reveal biological mechanisms of therapeutic relevance and clarify causal relationships of modifiable environmental risk factors for SARS-CoV-2 infection and outcomes. We formed a global network of researchers to investigate the role of human genetics in SARS-CoV-2 infection and COVID-19 severity. Here we describe the results of three genome-wide association meta-analyses that consist of up to 49,562 patients with COVID-19 from 46 studies across 19 countries. We report 13 genome-wide significant loci that are associated with SARS-CoV-2 infection or severe manifestations of COVID-19. Several of these loci correspond to previously documented associations to lung or autoimmune and inflammatory diseases. They also represent potentially actionable mechanisms in response to infection. Mendelian randomization analyses support a causal role for smoking and body-mass index for severe COVID-19 although not for type II diabetes. The identification of novel host genetic factors associated with COVID-19 was made possible by the community of human genetics researchers coming together to prioritize the sharing of data, results, resources and analytical frameworks. This working model of international collaboration underscores what is possible for future genetic discoveries in emerging pandemics, or indeed for any complex human disease.",
-        "authors": [
-            "COVID-19 Host Genetics Initiative"
-        ],
-        "doi": "10.1038/s41586-021-03767-x",
-        "source_study": [
-            "CHRIS COVID-19"
-        ],
-        "ar": "409",
-        "volume": "600",
-        "issue": "7889",
-        "pages": "472-477",
-        "pre": false,
-        "pdate": "2021-07-09"
-    },
     "10.1038/s41467-022-32821-z": {
         "title": "Genetic analyses of the electrocardiographic QT interval and its components identify additional loci and pathways.",
         "journal": "Nature communications",
@@ -3152,28 +3269,6 @@
         "pre": false,
         "pdate": "2023-11-03"
     },
-    "10.1093/hmg/ddae062": {
-        "title": "Impact of the inaccessible genome on genotype imputation and genome-wide association studies.",
-        "journal": "Human molecular genetics",
-        "year": "2024",
-        "abstract": "Genotype imputation is widely used in genome-wide association studies (GWAS). However, both the genotyping chips and imputation reference panels are dependent on next-generation sequencing (NGS). Due to the nature of NGS, some regions of the genome are inaccessible to sequencing. To date, there has been no complete evaluation of these regions and their impact on the identification of associations in GWAS remains unclear. In this study, we systematically assess the extent to which variants in inaccessible regions are underrepresented on genotyping chips and imputation reference panels, in GWAS results and in variant databases. We also determine the proportion of genes located in inaccessible regions and compare the results across variant masks defined by the 1000 Genomes Project and the TOPMed program. Overall, fewer variants were observed in inaccessible regions in all categories analyzed. Depending on the mask used and normalized for region size, only 4%-17% of the genotyped variants are located in inaccessible regions and 52 to 581 genes were almost completely inaccessible. From the Cooperative Health Research in South Tyrol (CHRIS) study, we present a case study of an association located in an inaccessible region that is driven by genotyped variants and cannot be reproduced by imputation in GRCh37. We conclude that genotyping, NGS, genotype imputation and downstream analyses such as GWAS and fine mapping are systematically biased in inaccessible regions, due to missed variants and spurious associations. To help researchers assess gene and variant accessibility, we provide an online application ([https://gab.gm.eurac.edu](https://gab.gm.eurac.edu)).",
-        "authors": [
-            "K\u00f6nig E",
-            "Mitchell JS",
-            "Filosi M",
-            "Fuchsberger C"
-        ],
-        "doi": "10.1093/hmg/ddae062",
-        "source_study": [
-            "CHRIS baseline"
-        ],
-        "ar": "403",
-        "volume": "33",
-        "issue": "14",
-        "pages": "1207-1214",
-        "pre": false,
-        "pdate": "2024-04-21"
-    },
     "10.1093/chemse/bjae011": {
         "title": "Factors influencing olfactory function in an adult general population sample: the CHRIS study.",
         "journal": "Chemical senses",
@@ -3195,36 +3290,6 @@
         "pages": "",
         "pre": false,
         "pdate": "2024-03-07"
-    },
-    "10.1053/j.jrn.2024.03.003": {
-        "title": "Associations Between Dietary Patterns and Kidney Health Assessed in the Population-Based CHRIS Study Using Reduced Rank Regression.",
-        "journal": "Journal of renal nutrition",
-        "year": "2024",
-        "abstract": "**Objective**<br> While diet plays a key role in chronic kidney disease (CKD) management, the potential for diet to impact CKD prevention in the general population is less clear. Using a priori knowledge, we derived disease-related dietary patterns (DPs) through reduced rank regression (RRR) and investigated associations with kidney function, separately focusing on generally healthy individuals and those with self-reported kidney diseases, hypertension, or diabetes mellitus. <br>**Methods**<br> Eight thousand six hundred eighty-six participants from the population-based Cooperative Health Research in South Tyrol study were split into a group free of kidney disease, hypertension and diabetes (n\u00a0=\u00a06,133) and a group with any of the 3 conditions (n\u00a0=\u00a02,553). Diet was assessed through the self-administered Global Allergy and Asthma Network of Excellence food frequency questionnaire and DPs were derived through RRR selecting food frequency questionnaire-derived sodium, potassium, phosphorus, and protein intake as mediators. Outcomes were creatinine-based estimated glomerular filtration rate, urinary albumin-to-creatinine ratio, CKD and microalbuminuria. Multiple linear and logistic models were used to assess associations between RRR-based DPs and kidney outcomes separately in the 2 analytic groups. <br>**Results**<br> We identified 3 DPs, where high adherence reflected high levels of all nutrients (DP1), high potassium-phosphorus and low protein-sodium levels (DP2), and low potassium-sodium and high protein-phosphorus levels (DP3), respectively. We observed heterogeneous associations with kidney outcomes, varying by analytic group and sex. Kidney outcomes were much more strongly associated with DPs than with single nutrients. <br>**Conclusion**<br> RRR is a feasible approach to estimate disease-related DPs and explore the combined effects of nutrients on kidney health. Heterogeneous associations across kidney outcomes suggest possible specificity to kidney function or damage. In individuals reporting kidney disease, hypertension or diabetes, specific dietary habits were associated with better kidney health, indicating that disease-specific dietary interventions can be effective for disease control.",
-        "authors": [
-            "Barbieri G",
-            "Garcia-Larsen V",
-            "Lundin R",
-            "Fujii R",
-            "Melotti R",
-            "G\u00f6gele M",
-            "Christopher KB",
-            "Cazzoletti L",
-            "Pramstaller PP",
-            "Zanolin ME",
-            "Pattaro C",
-            "Hantikainen E"
-        ],
-        "doi": "10.1053/j.jrn.2024.03.003",
-        "source_study": [
-            "CHRIS baseline"
-        ],
-        "ar": "398",
-        "volume": "34",
-        "issue": "5",
-        "pages": "427-437",
-        "pre": false,
-        "pdate": "2024-03-24"
     },
     "10.1038/s43856-025-00856-0": {
         "title": "Extensive modulation of the circulating blood proteome by hormonal contraceptive use across two population studies.",
@@ -3574,44 +3639,6 @@
         "pages": "e072650",
         "pre": false,
         "pdate": "2023-06-09"
-    },
-    "10.1016/j.celrep.2023.113611": {
-        "title": "Genetic determinants of complement activation in the general population.",
-        "journal": "Cell reports",
-        "year": "2024",
-        "abstract": "Complement is a fundamental innate immune response component. Its alterations are associated with severe systemic diseases. To illuminate the complement's genetic underpinnings, we conduct genome-wide association studies of the functional activity of the classical (CP), lectin (LP), and alternative (AP) complement pathways in the Cooperative Health Research in South Tyrol study (n\u00a0= 4,990). We identify seven loci, encompassing 13 independent, pathway-specific variants located in or near complement genes (*CFHR4*, *C7*, *C2*, *MBL2*) and non-complement genes (*PDE3A*, *TNXB*, *ABO*), explaining up to 74% of complement pathways' genetic heritability and implicating long-range haplotypes associated with LP at *MBL2*. Two-sample Mendelian randomization analyses, supported by transcriptome- and proteome-wide colocalization, confirm known causal pathways, establish within-complement feedback loops, and implicate causality of ABO on LP and of CFHR2 and C7 on AP. LP causally influences collectin-11 and KAAG1 levels and the risk of mouth ulcers. These results build a comprehensive resource to investigate the role of complement in human health.",
-        "authors": [
-            "Noce D",
-            "Foco L",
-            "Orth-H\u00f6ller D",
-            "K\u00f6nig E",
-            "Barbieri G",
-            "Pietzner M",
-            "Ghasemi-Semeskandeh D",
-            "Coassin S",
-            "Fuchsberger C",
-            "G\u00f6gele M",
-            "Del Greco M F",
-            "De Grandi A",
-            "Summerer M",
-            "Wheeler E",
-            "Langenberg C",
-            "Lass-Fl\u00f6rl C",
-            "Pramstaller PP",
-            "Kronenberg F",
-            "W\u00fcrzner R",
-            "Pattaro C"
-        ],
-        "doi": "10.1016/j.celrep.2023.113611",
-        "source_study": [
-            "CHRIS baseline"
-        ],
-        "ar": "346",
-        "volume": "43",
-        "issue": "1",
-        "pages": "113611",
-        "pre": false,
-        "pdate": "2024-01-02"
     },
     "10.1371/journal.pone.0280600": {
         "title": "Structural equation modeling (SEM) of kidney function markers and longitudinal CVD risk assessment.",
@@ -5184,7 +5211,7 @@
         "title": "Association between non-alcoholic fatty liver disease and impaired cardiac sympathetic/parasympathetic balance in subjects with and without type 2 diabetes-The Cooperative Health Research in South Tyrol (CHRIS)-NAFLD sub-study.",
         "journal": "Nutrition, metabolism, and cardiovascular diseases",
         "year": "2021",
-        "abstract": "<br>**Background and aims**<br> Cardiovascular disease (CVD) is the leading cause of death in patients with non-alcoholic fatty liver disease (NAFLD), both with and without type 2 diabetes mellitus (T2DM). Cardiac autonomic dysfunction is a risk factor for CVD morbidity and mortality. The aim of this pilot study was to assess whether there is an association between NAFLD and impaired cardiac autonomic function. <br>**Methods and results**<br> Among the first 4979 participants from the Cooperative Health Research in South Tyrol (CHRIS) study, we randomly recruited 173 individuals with T2DM and 183 age- and sex-matched nondiabetic controls. Participants underwent ultrasonography and vibration-controlled transient elastography (Fibroscan\u00ae, Echosens) to assess hepatic steatosis and liver stiffness. The low-to-high-frequency (LF/HF) power ratio and other heart rate variability (HRV) measures were calculated from a 20-min resting electrocardiogram (ECG) to derive a measure of cardiac sympathetic/parasympathetic imbalance. Among the 356 individuals recruited for the study, 117 had NAFLD and T2DM, 56 had T2DM alone, 68 had NAFLD alone, and 115 subjects had neither condition. Individuals with T2DM and NAFLD (adjusted odds ratio [OR] 4.29, 95% confidence intervals [CI] 1.90-10.6) and individuals with NAFLD alone (adjusted OR 3.41, 95% CI 1.59-7.29), but not those with T2DM alone, had a substantially increased risk of having cardiac sympathetic/parasympathetic imbalance, compared with those without NAFLD and T2DM. Logistic regression models were adjusted for age, sex, body mass index (BMI), hypertension, dyslipidemia, insulin resistance, hemoglobin A1c (HbA1c), C-reactive protein (CRP), and Fibroscan\u00ae-measured liver stiffness. <br>**Conclusions**<br> NAFLD was associated with cardiac sympathetic/parasympathetic imbalance, regardless of the presence or absence of T2DM, liver stiffness, and other potential confounding factors.",
+        "abstract": "**Background and aims**<br> Cardiovascular disease (CVD) is the leading cause of death in patients with non-alcoholic fatty liver disease (NAFLD), both with and without type 2 diabetes mellitus (T2DM). Cardiac autonomic dysfunction is a risk factor for CVD morbidity and mortality. The aim of this pilot study was to assess whether there is an association between NAFLD and impaired cardiac autonomic function. <br>**Methods and results**<br> Among the first 4979 participants from the Cooperative Health Research in South Tyrol (CHRIS) study, we randomly recruited 173 individuals with T2DM and 183 age- and sex-matched nondiabetic controls. Participants underwent ultrasonography and vibration-controlled transient elastography (Fibroscan\u00ae, Echosens) to assess hepatic steatosis and liver stiffness. The low-to-high-frequency (LF/HF) power ratio and other heart rate variability (HRV) measures were calculated from a 20-min resting electrocardiogram (ECG) to derive a measure of cardiac sympathetic/parasympathetic imbalance. Among the 356 individuals recruited for the study, 117 had NAFLD and T2DM, 56 had T2DM alone, 68 had NAFLD alone, and 115 subjects had neither condition. Individuals with T2DM and NAFLD (adjusted odds ratio [OR] 4.29, 95% confidence intervals [CI] 1.90-10.6) and individuals with NAFLD alone (adjusted OR 3.41, 95% CI 1.59-7.29), but not those with T2DM alone, had a substantially increased risk of having cardiac sympathetic/parasympathetic imbalance, compared with those without NAFLD and T2DM. Logistic regression models were adjusted for age, sex, body mass index (BMI), hypertension, dyslipidemia, insulin resistance, hemoglobin A1c (HbA1c), C-reactive protein (CRP), and Fibroscan\u00ae-measured liver stiffness. <br>**Conclusions**<br> NAFLD was associated with cardiac sympathetic/parasympathetic imbalance, regardless of the presence or absence of T2DM, liver stiffness, and other potential confounding factors.",
         "authors": [
             "Targher G",
             "Mantovani A",
@@ -7163,6 +7190,29 @@
         "pre": false,
         "pdate": "2018-08-17"
     },
+    "10.1016/j.jpain.2018.06.007": {
+        "title": "Structural Consistency of the Pain Sensitivity Questionnaire in the Cooperative Health Research In South Tyrol (CHRIS) Population-Based Study.",
+        "journal": "The journal of pain",
+        "year": "2018",
+        "abstract": "The self-reported Pain Sensitivity Questionnaire (PSQ) is a valid supplement to experimental pain testing. However, the latent constructs determining the originally proposed 1 general score (PSQ-total) and 2 subscores (PSQ-moderate and PSQ-minor) have not been consistently investigated in population-based studies or between genders. Based on a single construct hypothesized by expert knowledge or alternative constructs upon empirical evidence, PSQ structures were explored and confirmed among 4,820 participants aged 18 to 93 years of the Cooperative Health Research In South Tyrol (CHRIS) study. By exploratory factor analysis, we identified 3 alternative sets of PSQ imagined painful situations comprising 14, 10, and 9 items, which displayed simple structures of the rotated factor loadings of direct interpretation. In confirmatory analysis (CFA) of 1 latent factor, the 10-item set yielded acceptable goodness-of-fit overall, better fit than the alternative sets and consistent structural properties between genders. Separate analyses based on 14- and 9-item sets returned considerable correlations between 2 latent constructs. In higher-order CFA with each set, 1 first-order general factor explained a large part of the variances of 2 second-order factors. One dominant construct consistently describes the factorial structure of the PSQ. Averaging across the 10-item set, the PSQ-short score represents a structurally robust, gender-consistent, and practical measure of general pain sensitivity. <br>**Perspective**<br> One dominant latent construct of general pain sensitivity consistently determines responses to the self-reported PSQ. The PSQ-short score maintains similar psychometric properties to the PSQ-total and between genders. This measure is attractive for large-scale research and clinical screening of pain sensitivity.",
+        "authors": [
+            "Melotti R",
+            "Ruscheweyh R",
+            "Pramstaller PP",
+            "Hicks AA",
+            "Pattaro C"
+        ],
+        "doi": "10.1016/j.jpain.2018.06.007",
+        "source_study": [
+            "CHRIS baseline"
+        ],
+        "ar": "126",
+        "volume": "19",
+        "issue": "12",
+        "pages": "1424-1434",
+        "pre": false,
+        "pdate": "2018-07-19"
+    },
     "10.1038/s41467-018-06356-1": {
         "title": "Genome-wide analyses identify a role for SLC17A4 and AADAT in thyroid hormone regulation.",
         "journal": "Nature communications",
@@ -7375,29 +7425,6 @@
         "pages": "11995",
         "pre": false,
         "pdate": "2019-08-21"
-    },
-    "10.1016/j.jpain.2018.06.007": {
-        "title": "Structural Consistency of the Pain Sensitivity Questionnaire in the Cooperative Health Research In South Tyrol (CHRIS) Population-Based Study.",
-        "journal": "The journal of pain",
-        "year": "2018",
-        "abstract": "The self-reported Pain Sensitivity Questionnaire (PSQ) is a valid supplement to experimental pain testing. However, the latent constructs determining the originally proposed 1 general score (PSQ-total) and 2 subscores (PSQ-moderate and PSQ-minor) have not been consistently investigated in population-based studies or between genders. Based on a single construct hypothesized by expert knowledge or alternative constructs upon empirical evidence, PSQ structures were explored and confirmed among 4,820 participants aged 18 to 93 years of the Cooperative Health Research In South Tyrol (CHRIS) study. By exploratory factor analysis, we identified 3 alternative sets of PSQ imagined painful situations comprising 14, 10, and 9 items, which displayed simple structures of the rotated factor loadings of direct interpretation. In confirmatory analysis (CFA) of 1 latent factor, the 10-item set yielded acceptable goodness-of-fit overall, better fit than the alternative sets and consistent structural properties between genders. Separate analyses based on 14- and 9-item sets returned considerable correlations between 2 latent constructs. In higher-order CFA with each set, 1 first-order general factor explained a large part of the variances of 2 second-order factors. One dominant construct consistently describes the factorial structure of the PSQ. Averaging across the 10-item set, the PSQ-short score represents a structurally robust, gender-consistent, and practical measure of general pain sensitivity. <br>**Perspective**<br> One dominant latent construct of general pain sensitivity consistently determines responses to the self-reported PSQ. The PSQ-short score maintains similar psychometric properties to the PSQ-total and between genders. This measure is attractive for large-scale research and clinical screening of pain sensitivity.",
-        "authors": [
-            "Melotti R",
-            "Ruscheweyh R",
-            "Pramstaller PP",
-            "Hicks AA",
-            "Pattaro C"
-        ],
-        "doi": "10.1016/j.jpain.2018.06.007",
-        "source_study": [
-            "CHRIS baseline"
-        ],
-        "ar": "126",
-        "volume": "19",
-        "issue": "12",
-        "pages": "1424-1434",
-        "pre": false,
-        "pdate": "2018-07-19"
     },
     "10.1038/s41467-019-12283-6": {
         "title": "Associations of autozygosity with a broad range of human phenotypes.",
